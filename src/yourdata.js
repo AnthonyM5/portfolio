@@ -10,6 +10,7 @@ import foodApp from "./images/foodApp.jpeg"
 import nutrientReact from "./images/nutrientreact.jpeg"
 import linkedIn from "./images/linkedin.png"
 import portrait from "./images/portrait.jpeg"
+import jekyll from "./images/octojekyll.png"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
@@ -182,10 +183,10 @@ export default {
       img: linkedIn,
       url: "https://www.linkedin.com/in/anthonymai5/",
     },
-    // {
-    //   img: dribbbleIcon,
-    //   url: "https://dribbble.com/chetanverma",
-    // },
+    {
+      img: jekyll,
+      url: "https://anthonym5.github.io/my-awesome-blog/",
+    },
     // {
     //   img: instagramIcon,
     //   url: "https://www.instagram.com/",
