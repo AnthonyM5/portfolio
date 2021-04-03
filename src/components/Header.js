@@ -41,12 +41,10 @@ const Header = () => {
           </Fade>
           <Fade bottom>
             <a
-              href={`mailto:${
-                data.contactEmail ? data.contactEmail : "anthonym530@gmail.com"
-              }`}
+              href={`anthonym5.github.io/my-awesome-blog/`}
               className="primary-btn"
             >
-              CONNECT WITH ME
+              Check The Blog!
             </a>
           </Fade>
         </div>
