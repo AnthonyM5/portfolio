@@ -40,10 +40,8 @@ const Header = () => {
             <p>{data.headerParagraph}</p>
           </Fade>
           <Fade bottom>
-            <a
-              href={`anthonym5.github.io/my-awesome-blog/`}
-              className="primary-btn"
-            >
+            <a href='https://anthonym5.github.io/my-awesome-blog/'
+              className="primary-btn">
               Check The Blog!
             </a>
           </Fade>

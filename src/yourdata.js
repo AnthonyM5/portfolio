@@ -168,25 +168,29 @@ export default {
 
   //   Promotion Section --------------------------
 
-  promotionHeading: "Learn More",
-  promotionPara:
-    "Follow me via my blog, LinkedIn, or Github",
+  // promotionHeading: "Learn More",
+  // promotionPara:
+  //   "Follow me via my blog, LinkedIn, or Github",
   // End Promotion Section -----------------
 
   //   Contact Section --------------
 
-  contactSubHeading: "Let's create your next experience together",
+  contactSubHeading: "Follow me via my Blog, LinkedIn, or Github",
   social: [
     // Add Or Remove The Link Accordingly
-    { img: githubIcon, url: "https://github.com/AnthonyM5" },
-    {
-      img: linkedIn,
-      url: "https://www.linkedin.com/in/anthonymai5/",
-    },
     {
       img: jekyll,
       url: "https://anthonym5.github.io/my-awesome-blog/",
     },
+    {
+      img: linkedIn,
+      url: "https://www.linkedin.com/in/anthonymai5/",
+    },
+    { img: githubIcon, 
+      url: "https://github.com/AnthonyM5" 
+    },
+   
+    
     // {
     //   img: instagramIcon,
     //   url: "https://www.instagram.com/",
