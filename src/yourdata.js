@@ -31,7 +31,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "My professional background is in E-commerce, and have held roles from front facing client services to back-office inventory planning/fulfillment. As an avid believer in continious learning, I have been lucky enough to have found a path to becoming a developer. ",
+    "My professional background is in E-commerce, and have held roles from front facing client services to back-office inventory planning/fulfillment. As an avid believer in continuous learning, I have been lucky enough to have found a path to becoming a developer. ",
 
   //Contact Email
   contactEmail: "anthony.mai530@gmail.com",
@@ -168,9 +168,9 @@ export default {
 
   //   Promotion Section --------------------------
 
-  // promotionHeading: "Learn More",
-  // promotionPara:
-  //   "Follow me via my blog, LinkedIn, or Github",
+  promotionHeading: "Learn More",
+  promotionPara:
+    "Follow me via my blog, LinkedIn, or Github",
   // End Promotion Section -----------------
 
   //   Contact Section --------------
